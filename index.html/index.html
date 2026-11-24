@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="UniBot - Your virtual campus assistant">
+  <title>UniBot | Virtual Campus Assistant</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="app-shell">
+    <aside class="sidebar" id="sidebar">
+      <a class="brand" href="#" data-page="home">
+        <span class="brand-icon">🎓</span>
+        <span><strong>UniBot</strong><small>Campus Assistant</small></span>
+      </a>
+      <div class="side-label">MENU</div>
+      <button class="nav-link active" data-page="home"><span>⌂</span> Home & Chat</button>
+      <button class="nav-link" data-page="faqs"><span>▤</span> Explore FAQs</button>
+      <button class="nav-link" data-page="about"><span>ⓘ</span> About Project</button>
+      <div class="sidebar-bottom">
+        <div class="help-card">
+          <div class="help-icon">💡</div>
+          <strong>Need a hand?</strong>
+          <p>Ask UniBot your campus questions anytime.</p>
+          <button id="sidebarAsk">Start chatting ↗</button>
+        </div>
+        <div class="profile">
+          <div class="avatar">U</div>
+          <div><strong>Campus Student</strong><small>Guest session</small></div>
+        </div>
+      </div>
+    </aside>
+
+    <main class="main">
+      <header class="topbar">
+        <button class="mobile-menu" id="menuToggle" aria-label="Open menu">☰</button>
+        <div class="breadcrumb">Workspace <span>/</span> <b id="crumb">Home & Chat</b></div>
+        <div class="top-right"><span class="status-dot"></span> Assistant online <span class="top-avatar">U</span></div>
+      </header>
+
+      <section class="page active-page" id="homePage">
+        <div class="hero">
+          <div class="hero-copy">
+            <div class="eyebrow"><span class="sparkle">✦</span> YOUR CAMPUS, SIMPLIFIED</div>
+            <h1>Meet your campus<br><em>companion.</em></h1>
+            <p>Get quick answers to university questions, discover helpful resources, and make student life a little easier.</p>
+            <button class="hero-button" id="heroChat">Start a conversation <span>→</span></button>
+          </div>
+          <div class="hero-art" aria-hidden="true">
+            <div class="orbit orbit-one"></div><div class="orbit orbit-two"></div>
+            <div class="bot-face"><div class="bot-antenna"></div><div class="bot-eyes"><i></i><i></i></div><div class="bot-smile"></div></div>
+            <div class="float-card float-card-one">✦ Always ready to help</div>
+            <div class="float-card float-card-two">💬 Ask me anything</div>
+          </div>
+          <div class="hero-glow"></div>
+        </div>
+
+        <div class="section-heading">
+          <div><div class="eyebrow dark-eyebrow">CAMPUS HELP DESK</div><h2>What can I help you with?</h2><p>Choose a topic to get started.</p></div>
+          <span class="mini-badge">●  Available now</span>
+        </div>
+
+        <div class="topic-grid">
+          <button class="topic-card" data-question="What courses are available?"><span class="topic-icon lavender">📚</span><span><b>Courses & Academics</b><small>Programmes, subjects and syllabus</small></span><i>↗</i></button>
+          <button class="topic-card" data-question="Tell me about hostel facilities."><span class="topic-icon peach">🏠</span><span><b>Hostel & Campus</b><small>Accommodation and facilities</small></span><i>↗</i></button>
+          <button class="topic-card" data-question="How can I prepare for examinations?"><span class="topic-icon mint">📝</span><span><b>Examinations</b><small>Timetables, exams and assignments</small></span><i>↗</i></button>
+          <button class="topic-card" data-question="Where can I get scholarship information?"><span class="topic-icon yellow">🎓</span><span><b>Scholarships</b><small>Financial aid and eligibility</small></span><i>↗</i></button>
+          <button class="topic-card" data-question="Where can I check my fee details?"><span class="topic-icon blue">💳</span><span><b>Fees & Payments</b><small>Fee details and receipts</small></span><i>↗</i></button>
+          <button class="topic-card" data-question="What career support is available?"><span class="topic-icon pink">🚀</span><span><b>Career Support</b><small>Internships and placements</small></span><i>↗</i></button>
+        </div>
+
+        <section class="chat-panel" id="chatPanel">
+          <div class="chat-heading"><div class="bot-small">✦</div><div><h2>Chat with UniBot</h2><p><span class="status-dot"></span> Here to make campus life easier</p></div><button class="clear-button" id="clearChat">↻ New chat</button></div>
+          <div class="messages" id="messages" aria-live="polite">
+            <div class="message bot-message"><div class="message-avatar">✦</div><div class="bubble"><b>Hello there! 👋</b><p>I'm UniBot, your virtual campus assistant. Ask me about admissions, courses, hostel, exams, scholarships or career support.</p><span class="message-time">Just now</span></div></div>
+          </div>
+          <div class="suggestion-row" id="suggestions">
+            <button data-question="What is the admission process?">Admission process</button>
+            <button data-question="Tell me about hostel facilities.">Hostel facilities</button>
+            <button data-question="How can I prepare for examinations?">Exam preparation</button>
+          </div>
+          <form class="chat-form" id="chatForm">
+            <input id="chatInput" type="text" placeholder="Write your question here..." autocomplete="off" aria-label="Your question">
+            <button type="submit" aria-label="Send message">➤</button>
+          </form>
+          <div class="chat-footnote">UniBot can make mistakes. Verify important information with official university departments.</div>
+        </section>
+      </section>
+
+      <section class="page" id="faqsPage">
+        <div class="page-title"><div class="eyebrow dark-eyebrow">YOUR QUESTIONS, ANSWERED</div><h1>Explore FAQs</h1><p>Find quick answers to common campus questions.</p></div>
+        <div class="faq-tools"><div class="search-box"><span>⌕</span><input id="faqSearch" placeholder="Search questions or keywords..."></div><select id="categoryFilter" aria-label="Filter by category"><option value="All">All categories</option></select></div>
+        <div class="faq-list" id="faqList"></div>
+        <div class="empty-state" id="emptyFaq" hidden>No FAQs match your search. Try another keyword.</div>
+      </section>
+
+      <section class="page" id="aboutPage">
+        <div class="page-title"><div class="eyebrow dark-eyebrow">THE IDEA BEHIND THE BOT</div><h1>About UniBot</h1><p>A student-focused virtual campus assistant project.</p></div>
+        <div class="about-hero"><div class="about-symbol">✦</div><div><h2>Making campus information easier to find.</h2><p>UniBot is a simple web-based assistant designed to help students find answers to frequently asked university questions from one place.</p></div></div>
+        <div class="about-grid">
+          <article class="info-card"><span>🎯</span><h3>Project objective</h3><p>Reduce the time students spend searching for routine campus information by organising common questions and answers in one accessible interface.</p></article>
+          <article class="info-card"><span>⚙️</span><h3>How it works</h3><p>The website checks the words in a student's question against a small FAQ knowledge base and displays the closest matching answer.</p></article>
+          <article class="info-card"><span>💻</span><h3>Technology used</h3><p>HTML structures the pages, CSS creates the design, and JavaScript powers chat interactions, FAQ search and question matching.</p></article>
+        </div>
+        <div class="notice"><b>Project prototype notice</b><p>This demonstration uses sample FAQ information. It is not connected to Bennett University's official portal, LMS, fee system or live student database. Policies, dates and amounts must be verified with official university sources.</p></div>
+      </section>
+
+      <footer class="footer">© 2026 UniBot · Built to make student life simpler <span>Made with ✦ for students</span></footer>
+    </main>
+  </div>
+  <script src="script.js"></script>
+</body>
+</html>

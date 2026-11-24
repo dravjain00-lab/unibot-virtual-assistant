@@ -1,0 +1,120 @@
+[2026-11-20 00:33:06] USER: bennett university fee
+[2026-11-20 00:33:06] BOT (10.0% match): You can view fee structures
+--------------------------------------------------
+[2026-11-20 00:33:15] USER: from where 
+[2026-11-20 00:33:15] BOT (0.0% match): I couldn't find an exact match. Try asking about courses, hostel, exams, fees, scholarships, or placements.
+--------------------------------------------------
+[2026-11-20 00:33:26] USER: courses?
+[2026-11-20 00:33:26] BOT (12.5% match): We offer B.Tech
+--------------------------------------------------
+[2026-11-20 00:33:32] USER: any other 
+[2026-11-20 00:33:32] BOT (0.0% match): I couldn't find an exact match. Try asking about courses, hostel, exams, fees, scholarships, or placements.
+--------------------------------------------------
+[2026-11-20 01:05:45] USER: tell me the fee structure 
+[2026-11-20 01:05:45] BOT (0.0% match): I couldn't find an exact match. Try asking about courses, hostel, exams, fees, scholarships, or placements.
+--------------------------------------------------
+[2026-11-20 01:05:54] USER: courses
+[2026-11-20 01:05:54] BOT (0.0% match): I couldn't find an exact match. Try asking about courses, hostel, exams, fees, scholarships, or placements.
+--------------------------------------------------
+[2026-11-20 01:06:00] USER: hostel
+[2026-11-20 01:06:00] BOT (12.5% match): Hostel: On-campus hostels have AC rooms with Wi-Fi. Approx. yearly fee: Rs 2,25,000 for twin sharing and Rs 1,70,000 for triple sharing. Mess charges are usually separate. Apply for hostel separately from admission, and confirm current fees with the hostel office.
+--------------------------------------------------
+[2026-11-20 01:07:23] USER: tell me about hostel facilities 
+[2026-11-20 01:07:23] BOT (25.0% match): Hostel: On-campus hostels have AC rooms with Wi-Fi. Approx. yearly fee: Rs 2,25,000 for twin sharing and Rs 1,70,000 for triple sharing. Mess charges are usually separate. Apply for hostel separately from admission, and confirm current fees with the hostel office.
+--------------------------------------------------
+[2026-11-20 01:08:06] USER: what food options are avaiable in campus
+[2026-11-20 01:08:06] BOT (15.0% match): Food: The campus has a multi-cuisine cafeteria, food courts, a street food truck and a tuck shop. Hostel students get mess facilities (charged separately).
+--------------------------------------------------
+[2026-11-20 01:08:47] USER: Where can I check my fee details?
+[2026-11-20 01:08:47] BOT (27.3% match): Fees: B.Tech tuition is roughly Rs 3.5 lakh per year (approximate, varies by programme), with a registration fee of about Rs 45,000. Day scholars pay a sports charge of Rs 26,000 per year, and there is a one-time alumni charge of Rs 1,500. Fees can change, so confirm the latest amount on the student portal or bennett.edu.in.
+--------------------------------------------------
+[2026-11-20 01:09:18] USER: What courses are available?
+[2026-11-20 01:09:18] BOT (15.4% match): Courses: B.Tech (CSE, ECE, Mechanical, Engineering Physics, AI, Biotechnology), integrated B.Tech + M.Tech, BCA, BCA + MCA, B.Sc, BA, B.Des, BBA, BA LLB (Hons), MBA, M.Tech and PhD. There are also Global B.Tech pathways with partner universities abroad such as Iowa State University and the University of Essex.
+--------------------------------------------------
+[2026-11-20 01:09:24] USER: Tell me about hostel facilities.
+[2026-11-20 01:09:24] BOT (25.0% match): Hostel: On-campus hostels have AC rooms with Wi-Fi. Approx. yearly fee: Rs 2,25,000 for twin sharing and Rs 1,70,000 for triple sharing. Mess charges are usually separate. Apply for hostel separately from admission, and confirm current fees with the hostel office.
+--------------------------------------------------
+[2026-11-20 01:09:33] USER: Where can I get scholarship information?
+[2026-11-20 01:09:33] BOT (30.0% match): Scholarships: The university offers merit-based scholarships. Early application gives an advantage for scholarship eligibility. See the scholarships page under Admissions on bennett.edu.in for current criteria.
+--------------------------------------------------
+[2026-11-24 00:41:30] USER: What is the admission process?
+[2026-11-24 00:41:30] BOT (20.0% match): Admissions: Admissions run on a rolling, first-come first-served basis in rounds. B.Tech eligibility: 55% in Class 12 with Physics, Maths and one more subject (CSE, ECE, ME, EP); 65% for AI. JEE Main is accepted. Hostel is applied for separately. Apply on bennett.edu.in and check the website for the current round and deadline.
+--------------------------------------------------
+[2026-11-24 00:47:59] USER: Tell me about hostel facilities.
+[2026-11-24 00:47:59] BOT (25.0% match): Hostel: On-campus hostels have AC rooms with Wi-Fi. Approx. yearly fee: Rs 2,25,000 for twin sharing and Rs 1,70,000 for triple sharing. Mess charges are usually separate. Apply for hostel separately from admission, and confirm current fees with the hostel office.
+--------------------------------------------------
+[2026-11-24 00:48:00] USER: How can I prepare for examinations?
+[2026-11-24 00:48:00] BOT (0.0% match): I couldn't find an exact match. Try asking about courses, hostel, exams, fees, scholarships, or placements.
+--------------------------------------------------
+[2026-11-24 00:48:14] USER: sutta kitna ka hh 
+[2026-11-24 00:48:14] BOT (0.0% match): I couldn't find an exact match. Try asking about courses, hostel, exams, fees, scholarships, or placements.
+--------------------------------------------------
+[2026-11-24 00:48:20] USER: How can I prepare for examinations?
+[2026-11-24 00:48:20] BOT (0.0% match): I couldn't find an exact match. Try asking about courses, hostel, exams, fees, scholarships, or placements.
+--------------------------------------------------
+[2026-11-24 00:48:27] USER: What is the admission process?
+[2026-11-24 00:48:27] BOT (20.0% match): Admissions: Admissions run on a rolling, first-come first-served basis in rounds. B.Tech eligibility: 55% in Class 12 with Physics, Maths and one more subject (CSE, ECE, ME, EP); 65% for AI. JEE Main is accepted. Hostel is applied for separately. Apply on bennett.edu.in and check the website for the current round and deadline.
+--------------------------------------------------
+[2026-11-24 00:48:29] USER: Tell me about hostel facilities.
+[2026-11-24 00:48:29] BOT (25.0% match): Hostel: On-campus hostels have AC rooms with Wi-Fi. Approx. yearly fee: Rs 2,25,000 for twin sharing and Rs 1,70,000 for triple sharing. Mess charges are usually separate. Apply for hostel separately from admission, and confirm current fees with the hostel office.
+--------------------------------------------------
+[2026-11-24 00:48:32] USER: Tell me about hostel facilities.
+[2026-11-24 00:48:32] BOT (25.0% match): Hostel: On-campus hostels have AC rooms with Wi-Fi. Approx. yearly fee: Rs 2,25,000 for twin sharing and Rs 1,70,000 for triple sharing. Mess charges are usually separate. Apply for hostel separately from admission, and confirm current fees with the hostel office.
+--------------------------------------------------
+[2026-11-24 00:48:36] USER: Where can I check my fee details?
+[2026-11-24 00:48:36] BOT (27.3% match): Fees: B.Tech tuition is roughly Rs 3.5 lakh per year (approximate, varies by programme), with a registration fee of about Rs 45,000. Day scholars pay a sports charge of Rs 26,000 per year, and there is a one-time alumni charge of Rs 1,500. Fees can change, so confirm the latest amount on the student portal or bennett.edu.in.
+--------------------------------------------------
+[2026-11-24 00:48:39] USER: Where can I get scholarship information?
+[2026-11-24 00:48:39] BOT (30.0% match): Scholarships: The university offers merit-based scholarships. Early application gives an advantage for scholarship eligibility. See the scholarships page under Admissions on bennett.edu.in for current criteria.
+--------------------------------------------------
+[2026-11-24 16:44:37] USER: What is the admission process?
+[2026-11-24 16:44:37] BOT (20.0% match): Admissions: Admissions run on a rolling, first-come first-served basis in rounds. B.Tech eligibility: 55% in Class 12 with Physics, Maths and one more subject (CSE, ECE, ME, EP); 65% for AI. JEE Main is accepted. Hostel is applied for separately. Apply on bennett.edu.in and check the website for the current round and deadline.
+--------------------------------------------------
+[2026-11-24 16:44:52] USER: abe tu randi h ky
+[2026-11-24 16:44:52] BOT (0.0% match): I couldn't find an exact match. Try asking about courses, hostel, exams, fees, scholarships, or placements.
+--------------------------------------------------
+[2026-11-24 16:45:06] USER: who id drav jain
+[2026-11-24 16:45:06] BOT (0.0% match): I couldn't find an exact match. Try asking about courses, hostel, exams, fees, scholarships, or placements.
+--------------------------------------------------
+[2026-11-24 16:45:37] USER: placement in bennett universiy
+[2026-11-24 16:45:37] BOT (12.5% match): About: Bennett University is a private university in Greater Noida, Uttar Pradesh, established in 2016 by The Times of India Group. It holds a NAAC A+ grade. Official website: bennett.edu.in
+--------------------------------------------------
+[2026-11-24 16:45:51] USER: Tell me about hostel facilities.
+[2026-11-24 16:45:51] BOT (25.0% match): Hostel: On-campus hostels have AC rooms with Wi-Fi. Approx. yearly fee: Rs 2,25,000 for twin sharing and Rs 1,70,000 for triple sharing. Mess charges are usually separate. Apply for hostel separately from admission, and confirm current fees with the hostel office.
+--------------------------------------------------
+[2026-11-24 16:45:57] USER: How can I prepare for examinations?
+[2026-11-24 16:45:57] BOT (0.0% match): I couldn't find an exact match. Try asking about courses, hostel, exams, fees, scholarships, or placements.
+--------------------------------------------------
+[2026-11-24 16:46:15] USER: Where can I get scholarship information?
+[2026-11-24 16:46:15] BOT (30.0% match): Scholarships: The university offers merit-based scholarships. Early application gives an advantage for scholarship eligibility. See the scholarships page under Admissions on bennett.edu.in for current criteria.
+--------------------------------------------------
+[2026-11-24 16:47:14] USER: What is the admission process?
+[2026-11-24 16:47:14] BOT (20.0% match): Admissions: Admissions run on a rolling, first-come first-served basis in rounds. B.Tech eligibility: 55% in Class 12 with Physics, Maths and one more subject (CSE, ECE, ME, EP); 65% for AI. JEE Main is accepted. Hostel is applied for separately. Apply on bennett.edu.in and check the website for the current round and deadline.
+--------------------------------------------------
+[2026-11-24 18:15:14] USER: Tell me about hostel facilities.
+[2026-11-24 18:15:14] BOT (25.0% match): Hostel: On-campus hostels have AC rooms with Wi-Fi. Approx. yearly fee: Rs 2,25,000 for twin sharing and Rs 1,70,000 for triple sharing. Mess charges are usually separate. Apply for hostel separately from admission, and confirm current fees with the hostel office.
+--------------------------------------------------
+[2026-11-24 18:16:11] USER: What is the admission process?
+[2026-11-24 18:16:11] BOT (20.0% match): Admissions: Admissions run on a rolling, first-come first-served basis in rounds. B.Tech eligibility: 55% in Class 12 with Physics, Maths and one more subject (CSE, ECE, ME, EP); 65% for AI. JEE Main is accepted. Hostel is applied for separately. Apply on bennett.edu.in and check the website for the current round and deadline.
+--------------------------------------------------
+[2026-11-24 18:21:53] USER: 2+2
+[2026-11-24 18:21:53] BOT (0.0% match): I couldn't find an exact match. Try asking about courses, hostel, exams, fees, scholarships, or placements.
+--------------------------------------------------
+[2026-11-24 18:22:17] USER: a good thing about bennett
+[2026-11-24 18:22:17] BOT (12.5% match): About: Bennett University is a private university in Greater Noida, Uttar Pradesh, established in 2016 by The Times of India Group. It holds a NAAC A+ grade. Official website: bennett.edu.in
+--------------------------------------------------
+[2026-11-24 18:22:33] USER: a good thing for  bennett
+[2026-11-24 18:22:33] BOT (12.5% match): About: Bennett University is a private university in Greater Noida, Uttar Pradesh, established in 2016 by The Times of India Group. It holds a NAAC A+ grade. Official website: bennett.edu.in
+--------------------------------------------------
+[2026-11-24 18:37:41] USER: bad thing bout bennett
+[2026-11-24 18:37:41] BOT (11.1% match): About: Bennett University is a private university in Greater Noida, Uttar Pradesh, established in 2016 by The Times of India Group. It holds a NAAC A+ grade. Official website: bennett.edu.in
+--------------------------------------------------
+[2026-11-24 18:50:28] USER: feeeeeeeeeeees
+[2026-11-24 18:50:28] BOT (0.0% match): I couldn't find an exact match. Try asking about courses, hostel, exams, fees, scholarships, or placements.
+--------------------------------------------------
+[2026-11-24 18:50:32] USER: fees
+[2026-11-24 18:50:32] BOT (0.0% match): I couldn't find an exact match. Try asking about courses, hostel, exams, fees, scholarships, or placements.
+--------------------------------------------------
+[2026-11-24 18:50:36] USER: fees
+[2026-11-24 18:50:36] BOT (0.0% match): I couldn't find an exact match. Try asking about courses, hostel, exams, fees, scholarships, or placements.
+--------------------------------------------------
